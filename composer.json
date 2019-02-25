@@ -1,0 +1,21 @@
+{
+  "name": "alonsolee/arsenal",
+  "description": "hello",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "alonsolee",
+      "email": "lizhenchang@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "phpunit/phpunit": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Alonsolee\\": "src/"
+    }
+  }
+}
