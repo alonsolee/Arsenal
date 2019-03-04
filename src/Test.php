@@ -11,8 +11,6 @@ namespace Arsenal;
 require __DIR__.'/../vendor/autoload.php';
 
 use Alonsolee\Arsenal\UUID;
-//use Arsenal\Arsenal\PriceHelper;
-//use Arsenal\Arsenal\UUID;
 use PHPUnit\Framework\TestCase;
 
 class Test extends TestCase
